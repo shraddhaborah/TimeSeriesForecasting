@@ -10,7 +10,7 @@ Implement multiple forecasting models and compare their performance.
 Evaluate models using appropriate metrics to determine the most accurate forecasting approach.
 
 Dataset
-The dataset used is sourced from [insert data source, e.g., Kaggle, UCI Repository], containing [brief description, e.g., daily temperature readings, stock prices, etc.].
+The dataset used is sourced from Kaggle.
 
 Methodology
 Data Preprocessing:
